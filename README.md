@@ -21,7 +21,7 @@ You can download [matting pre-trained model](https://github.com/huochaitiantang/
 ## Test
 You have to prepare the images for testing, and copy them into the “images” folder. The result file will be saved in the “result” folder. 
 ```Shell
-# evaluate using GPU
+# evaluate using CPU
 python test.py
 ```
 
