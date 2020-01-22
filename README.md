@@ -27,12 +27,5 @@ python test.py
 
 | Original Image | Segmented and Alpha Image | Composition Image |
 |---|---|---|
-|![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/00009_!real.png) |![image](
-https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/00009_alpha.png) |![image](
-https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/00009_composition.png))
-|![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/6_!real.png) |![image](
-https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/6_alpha.png) |![image](
-https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/6_composition.png))
-|![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/7_!real.png) |![image](
-https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/7_alpha.png) |![image](
-https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/7_composition.png))
+|![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/00009_!real.png) |![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/00009_alpha.png) |![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/00009_composition.png))
+|![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/6_!real.png) |![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/6_alpha.png) |![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/6_composition.png))|![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/7_!real.png) |![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/7_alpha.png) |![image](https://github.com/mostafa-shalaby84/hair_segmentation_matting/blob/master/result/7_composition.png))
